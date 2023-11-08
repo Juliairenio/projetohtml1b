@@ -1,12 +1,37 @@
 bod{
-    background-color: blanchedalmond;
+    background-color: rgb(201, 139, 209);
 }
 p{
     text-align: center;
 }
 strong{
-    color:brown;
+    color:rgb(8, 8, 8);
 }
 h1{
     text-align: center;
+}
+div{
+text-align: center;
+}
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background-color: #e90ea0;
+    padding: 20px; 
+    color: aliceblue;
+}
+
+h2 {
+    text-align: center;
+}
+ul {
+    display: inline-block;
+    vertical-align: top;
+    width: 20%;
+    margin-right: 15%;
+}
+.imagembeneficios {
+    width: 50%;
 }
